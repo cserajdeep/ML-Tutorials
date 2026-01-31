@@ -4,6 +4,8 @@ KMeans: https://youtu.be/qg_M37WGKG8
 
 KNN: https://youtu.be/PNglugooJUQ
 
+Decision Tree and Pruning (DT)
+
 Ordinary Least Squared Method (OLS) 
 
 Stocastic Gradient Descent (SGD)
